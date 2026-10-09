@@ -4,6 +4,34 @@
 
 Public hosting for the privacy policy of **페이스 퀴즈 (Face Quiz)** — `com.dicetree.facequiz`.
 
+![Face Quiz](screenshots/feature.jpg)
+
+얼굴 조각을 눈 깜빡임으로 붙여 관상을 완성하는 Android 게임. / An Android game where you blink to drop face parts into place and complete a "face reading".
+
+### Screenshots (한국어)
+<p>
+  <img src="screenshots/ko_01_modes.jpg" width="200">
+  <img src="screenshots/ko_02_masked.jpg" width="200">
+  <img src="screenshots/ko_03_play.jpg" width="200">
+  <img src="screenshots/ko_04_result.jpg" width="200">
+  <img src="screenshots/ko_05_roast.jpg" width="200">
+  <img src="screenshots/ko_06_blink.jpg" width="200">
+</p>
+
+<details><summary>English</summary>
+
+<p>
+  <img src="screenshots/en_01_modes.jpg" width="200">
+  <img src="screenshots/en_02_masked.jpg" width="200">
+  <img src="screenshots/en_03_play.jpg" width="200">
+  <img src="screenshots/en_04_result.jpg" width="200">
+  <img src="screenshots/en_05_roast.jpg" width="200">
+  <img src="screenshots/en_06_blink.jpg" width="200">
+</p>
+</details>
+
+> Google Play 출시 예정 (coming soon).
+
 **Published at:** https://jesus4000.github.io/facequiz-privacy/
 
 This repository exists only to serve that one page. Google Play requires a privacy policy at a
